@@ -1,1 +1,2 @@
 # Atmospheric-Flight-Mechanics
+Plot the acceleration ratios (ac/g) on the aircraft CG due to the curvature and rotation of the earth. Assume the gravity changes with altitude. The aircraft's speed can vary from 50 m/s to 1000 m/s, while the altitude can vary from 1 Km to 60 Km. The earth's angular velocity can be calculated as 2*pi radians covered in 24 hours. Provide your comments on the limits on which the assumption of Flat and Non-rotating Earth will hold on for deriving the equations of motion of an aircraft.
